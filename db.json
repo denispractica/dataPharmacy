@@ -1,0 +1,53 @@
+{
+  "data":
+[
+{
+    "id": 1,
+    "nombre": "Farmacia de 158 y 69",
+    "direccion": "AVE 55 e/23y12",
+    "telefono": 2342134234,
+    "municipio": "La Lisa",
+    "provincia": "La Habana"
+  },
+  {
+    "id": 2,
+    "nombre": "Farmacia de Belen",
+    "direccion": "Calle 83 e/15y16",
+    "telefono": 2342342,
+    "municipio": "Marianao",
+    "provincia": "La Habana"
+  },
+  {
+    "id": 3,
+    "nombre": "Farmacia Principal de 10 de Octubre",
+    "direccion": "AVE 14 e/calle1 y calle2",
+    "telefono": 234234,
+    "municipio": "10 de Octubre",
+    "provincia": "La Habana"
+  },
+  {
+    "id": 4,
+    "nombre": "Farmacia La Palma",
+    "direccion": "Calle 100 e/120y118",
+    "telefono": 23423131,
+    "municipio": "Arroyo Naranjo",
+    "provincia": "La Habana"
+  },
+  {
+    "id": 5,
+    "nombre": "Farmacia de Dolores",
+    "direccion": "AVE 5 e/calle4 y calle5",
+    "telefono": 24333525,
+    "municipio": "Lawton",
+    "provincia": "La Habana"
+  },
+  {
+    "id": 6,
+    "nombre": "Farmacia Internacional Comodoro",
+    "direccion": "AVE 115 e/A y B",
+    "telefono": 33356456,
+    "municipio": "Playa",
+    "provincia": "La Habana"
+  }
+]
+}
